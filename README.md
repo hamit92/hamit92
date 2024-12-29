@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamit92
 - 👀 I’m interested in IT suport
 - 🌱 I’m currently learning itsm
-- 💞️ I’m looking to collaborate on building a team that provide servider to client on IT support and data engineering .
+- 💞️ I’m looking to collaborate on building a team that provide service to client on IT support and data engineering .
 - 📫 How to reach me +2348130149041 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
